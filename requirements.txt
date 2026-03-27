@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+nltk
+langdetect
+transformers
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+gTTS
+tqdm
